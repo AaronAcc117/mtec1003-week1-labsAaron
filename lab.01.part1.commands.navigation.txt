@@ -60,6 +60,8 @@ $ ls -l Documents<ENTER>
 
 Copy and paste the first *two lines* of output below.
 ----------
+total 5
+drwxr-xr-x 1 aaron 197609   0 Sep 29  2022  Adobe/
 
 
 
@@ -72,7 +74,8 @@ $ ls -a Documents
 
 Copy and paste the first *two lines* of output below.
 ----------
-
+./    Adobe/                     'Max 8'/     'My Pictures'@   desktop.ini
+ ../  'Custom Office Templates'/  'My Music'@  'My Videos'@
 
 
 
