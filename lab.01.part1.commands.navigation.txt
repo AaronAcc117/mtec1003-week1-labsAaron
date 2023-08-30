@@ -34,6 +34,20 @@ Copy and paste the output of ls below.
  NTUSER.DAT{497970e9-bccf-11ed-adb0-d8e4f6bcbe74}.TMContainer00000000000000000001.regtrans-ms
  NTUSER.DAT{497970e9-bccf-11ed-adb0-d8e4f6bcbe74}.TMContainer00000000000000000002.regtrans-ms
  NetHood@
+ OneDrive/
+ Pictures/
+ PrintHood@
+ Recent@
+'Saved Games'/
+ Searches/
+ SendTo@
+'Start Menu'@
+ Templates@
+ Videos/
+ ntuser.dat.LOG1
+ ntuser.dat.LOG2
+ ntuser.ini
+
 
 
 
