@@ -120,7 +120,7 @@ ls
 ==========
 8.  What's one an argument that we've so far passed to a command?
 ----------
-
+Documents 
 
 
 
@@ -133,6 +133,7 @@ $ foo<ENTER>
 
 Copy and paste the output below.
 ----------
+bash: foo: command not found
 
 
 
@@ -145,6 +146,7 @@ Copy and paste the output below.
 Copy and paste the output below.
 ----------
 
+bash: foo: command not found
 
 
 
@@ -157,10 +159,11 @@ $ ls -a Desktop
 
 Identify the command, flag, argument, and prompt:
 ----------
-
-
-
-
+./   ../  'Goku2x - Chrome.lnk'*   Zoom.lnk*   desktop.ini
+command: ls
+flag   -a
+arguement  desktop
+prompt $
 
 
 Lab 1 / Part 2 - Navigating the File System
