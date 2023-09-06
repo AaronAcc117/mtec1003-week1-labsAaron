@@ -457,7 +457,7 @@ LAPTOP-FM1S5PBD
 28. Make sure you're back in your mtec1003, which should be in your home folder.  What command would you use to find out if you're in the right folder?  Write the command below, then run it.
 ----------
 
-
+pwd
 
 
 ==========
@@ -485,7 +485,7 @@ lemon
 Write the one command you used below:
 ----------
 
-
+mkdir
 
 
 
@@ -496,7 +496,7 @@ Write the command you used to create the directory below:
 ----------
 
 
-
+mkdir
 
 
 ==========
@@ -505,7 +505,7 @@ Write the command you used to create the directory below:
 What is the modified date of the aardvark directory?
 ----------
 
-
+9/5/23
 
 
 
@@ -519,7 +519,7 @@ What is the modified date of the aardvark directory?
 What command did you use?
 ----------
 
-
+cd~/
 
 
 
@@ -529,8 +529,7 @@ What command did you use?
 What command did you use?
 ----------
 
-
-
+cd
 
 
 ==========
@@ -538,7 +537,7 @@ What command did you use?
 
 What command did you use?
 ----------
-
+cd
 
 
 
@@ -548,14 +547,14 @@ What command did you use?
 ----------
 
 
-
+rmdir
 
 
 ==========
 37. What command is used to print out your current working directory?
 ----------
 
-
+pwd
 
 
 
@@ -564,7 +563,7 @@ What command did you use?
 ----------
 
 
-
+-a
 
 
 ==========
@@ -573,13 +572,13 @@ What command did you use?
 
 
 
-
+~
 
 ==========
 40. What's a pathname?
 ----------
 
-
+the sequence that shows the location of files and directories 
 
 
 
@@ -587,7 +586,7 @@ What command did you use?
 41. What is a directory?
 ----------
 
-
+a location to store files 
 
 
 
@@ -595,3 +594,4 @@ What command did you use?
 42. What's the *absolute* path (full path, starting at root) to your user's Downloads directory?
 ----------
 
+cd/home/username/downloads
