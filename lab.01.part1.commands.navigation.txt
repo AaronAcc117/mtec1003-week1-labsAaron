@@ -180,7 +180,7 @@ Follow the instructions line-by-line.
 ----------
 
 
-
+mkdir 
 
 ==========
 13. Change your directory so that you're in mtec1003. What command did you use?
@@ -188,7 +188,7 @@ Follow the instructions line-by-line.
 
 
 
-
+ls
 
 ==========
 14. Type:
@@ -203,6 +203,7 @@ Copy and paste the output of pwd below.
 ----------
 
 
+/c/Users/aaron/mtec1003
 
 
 
@@ -214,6 +215,40 @@ $ ls
 
 Copy and paste the output below.
 ----------
+
+AppData/
+'Application Data'@
+ Contacts/
+ Cookies@
+'Creative Cloud Files'/
+ Desktop/
+ Documents/
+ Downloads/
+ Favorites/
+ IntelGraphicsProfiles/
+ Links/
+'Local Settings'@
+ Music/
+'My Documents'@
+ NTUSER.DAT
+ NTUSER.DAT{497970e9-bccf-11ed-adb0-d8e4f6bcbe74}.TM.blf
+ NTUSER.DAT{497970e9-bccf-11ed-adb0-d8e4f6bcbe74}.TMContainer00000000000000000001.regtrans-ms
+ NTUSER.DAT{497970e9-bccf-11ed-adb0-d8e4f6bcbe74}.TMContainer00000000000000000002.regtrans-ms
+ NetHood@
+ OneDrive/
+ Pictures/
+ PrintHood@
+ Recent@
+'Saved Games'/
+ Searches/
+ SendTo@
+'Start Menu'@
+ Templates@
+ Videos/
+ animals/
+ ntuser.dat.LOG1
+ ntuser.dat.LOG2
+ ntuser.ini
 
 
 
@@ -228,6 +263,20 @@ $ ls
 Copy and paste the output below.
 ----------
 
+AppData/
+'Application Data'@
+ Contacts/
+ Cookies@
+'Creative Cloud Files'/
+ Desktop/
+ Documents/
+ Downloads/
+ Favorites/
+ IntelGraphicsProfiles/
+ Links/
+'Local Settings'@
+ Music/
+'My Documents'@
 
 
 
@@ -237,6 +286,23 @@ Copy and paste the output below.
 
 $ mkdir -p foo/bar/baz/qux
 $ ls
+NetHood@
+ OneDrive/
+ Pictures/
+ PrintHood@
+ Recent@
+'Saved Games'/
+ Searches/
+ SendTo@
+'Start Menu'@
+ Templates@
+ Videos/
+ animals/
+ foo/
+ food/
+ ntuser.dat.LOG1
+ ntuser.dat.LOG2
+ ntuser.ini
 
 Copy and paste the output below.
 ----------
@@ -254,6 +320,7 @@ $ pwd
 
 Copy and paste the output below.
 ----------
+/c/Users/aaron/foo/bar/baz/qux
 
 
 
@@ -267,7 +334,7 @@ $ pwd
 
 Copy and paste the output below.
 ----------
-
+/c/Users/aaron/foo/bar
 
 
 
@@ -280,6 +347,7 @@ $ pwd
 
 Copy and paste the output below.
 ----------
+/c/Users/aaron/foo/bar/baz/qux
 
 
 
@@ -293,6 +361,7 @@ $ pwd
 
 Copy and paste the output below.
 ----------
+/c/Users/aaron/foo
 
 
 
@@ -308,8 +377,9 @@ $ ls -l
 Copy and paste the first 3 lines from the output into the space below.
 ----------
 
-
-
+AppData/
+'Application Data'@
+Contacts/
 
 
 ==========
@@ -321,7 +391,7 @@ $ pwd
 Copy and paste the output into the space below.
 ----------
 
-
+/c/Users/aaron
 
 
 
@@ -338,6 +408,7 @@ Copy and paste the output into the space below.
 
 
 
+
 ==========
 25. Type:
 
@@ -348,6 +419,10 @@ Copy and paste the output into the space below.
 ----------
 
 
+ntuser.dat.LOG1
+ntuser.dat.LOG2
+ntuser.ini
+unknown_folder/
 
 
 
@@ -360,6 +435,7 @@ $ pwd
 Copy and paste the output into the space below.
 ----------
 
+/c/Users/aaron/mtec1003
 
 
 
@@ -374,6 +450,7 @@ Copy and paste the output into the space below.
 
 
 
+LAPTOP-FM1S5PBD
 
 
 ==========
